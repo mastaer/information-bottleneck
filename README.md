@@ -1,3 +1,8 @@
+## Basis of this repository:
+
+- Source Code for the information bottleneck (IB) calculation and visualization: https://github.com/stevenliuyi/information-bottleneck
+- Source Code of the CNN: https://www.tensorflow.org/tutorials/keras/classification
+
 ## Information bottleneck theory for deep learning
 
 [![Render in nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/stevenliuyi/information-bottleneck/blob/master/information_bottleneck.ipynb)
